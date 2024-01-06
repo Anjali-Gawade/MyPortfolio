@@ -1,0 +1,30 @@
+---
+layout: post
+title:  Lines and Shades
+date: 2015-05-15 21:01:00
+description: this is what included images could look like
+---
+In the intricate dance of pencil and paper, I find a profound sense of peace and personal expression. My hobby of sketching isn't just about creating images; it's about capturing moments, emotions, and the subtle interplay of light and shadow. Each stroke is a word in the visual story I'm telling, a story woven from the threads of imagination, observation, and a deep love for the art. Join me as I unravel the pages of my sketchbook, where every line is a journey and every shade, a memory etched in graphite. 
+
+<div class="img_row">
+	<img class="col three" src="/img/9.jpg">
+</div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/9.jpg">
+</div>
+<div class="col three caption">
+	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. 
+</div>
+<div class="img_row">
+	<img class="col two" src="/img/sketch1.png">
+	<img class="col one" src="/img/sketch2.png">
+</div>
+
+Slow-carb four dollar toast Helvetica pop-up. Kale chips next level literally trust fund Pitchfork. Jean shorts Pinterest beard, farm-to-table irony craft beer swag tofu 8-bit Banksy. Quinoa forage fanny pack, pug hashtag Echo Park heirloom Schlitz tote bag artisan Neutra mumblecore 90's shabby chic raw denim.
+
+
+<div class="img_row">
+	<img class="col one" src="/img/11.jpg">
+	<img class="col one" src="/img/12.jpg">
+	<img class="col one" src="/img/7.jpg">
+</div>
