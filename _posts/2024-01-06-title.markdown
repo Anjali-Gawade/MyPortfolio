@@ -16,8 +16,8 @@ In the intricate dance of pencil and paper, I find a profound sense of peace and
 	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. 
 </div>
 <div class="img_row">
-	<img class="col two" src="/img/sketch1.png">
-	<img class="col one" src="/img/sketch2.png">
+	<img class="col three" src="{{ site.baseurl }}/img/sketch1.png">
+	<img class="col three" src="{{ site.baseurl }}/img/sketch2.png">
 </div>
 
 Slow-carb four dollar toast Helvetica pop-up. Kale chips next level literally trust fund Pitchfork. Jean shorts Pinterest beard, farm-to-table irony craft beer swag tofu 8-bit Banksy. Quinoa forage fanny pack, pug hashtag Echo Park heirloom Schlitz tote bag artisan Neutra mumblecore 90's shabby chic raw denim.
